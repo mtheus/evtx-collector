@@ -1,7 +1,7 @@
 TravisCI for golang
 ====
 
-[![Build Status](https://travis-ci.org/tcnksm-sample/travis-golang.svg?branch=master)](https://travis-ci.org/tcnksm-sample/travis-golang)
+[![Build Status](https://travis-ci.org/mtheus/evtx-collector.svg?branch=master)](https://travis-ci.org/mtheus/evtx-collector)
 
 This is sample of releasing golang project from [TravisCI](https://travis-ci.org)
 
